@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7380" started-at="2021-07-29T22:49:52 EDT" finished-at="2021-07-29T22:50:00 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7380" started-at="2021-07-29T22:49:52 EDT" finished-at="2021-07-29T22:50:00 EDT">
+      <class name="variousConcepts.LearnTestNG">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.LearnTestNG@614ddd49]" name="readConfig" is-config="true" duration-ms="7" started-at="2021-07-29T22:49:52 EDT" finished-at="2021-07-29T22:49:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:variousConcepts.LearnTestNG@614ddd49]" name="launchBrowser" is-config="true" duration-ms="3532" started-at="2021-07-29T22:49:52 EDT" finished-at="2021-07-29T22:49:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:variousConcepts.LearnTestNG@614ddd49]" name="loginTest" duration-ms="3211" started-at="2021-07-29T22:49:56 EDT" finished-at="2021-07-29T22:49:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousConcepts.LearnTestNG@614ddd49]" name="tearDown" is-config="true" duration-ms="597" started-at="2021-07-29T22:49:59 EDT" finished-at="2021-07-29T22:50:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcepts.LearnTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
